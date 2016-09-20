@@ -5,3 +5,4 @@ $students = [
 "Eric"      => 48,
 "Nicolas"   => 19
 ];
+Age moyen : 41 ans
